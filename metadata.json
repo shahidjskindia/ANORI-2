@@ -1,0 +1,8 @@
+{
+  "name": "Remix Anori Transport ERP",
+  "description": "Advanced transport fleet management, trip logging, tax invoicing, driver \u0026 vendor settlements, and operational reporting analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
